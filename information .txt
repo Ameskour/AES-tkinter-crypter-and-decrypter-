@@ -1,0 +1,14 @@
+# authour : ismail ameskour 
+# AES with source code python 
+# 2019/2020 
+# if you have any question , conctat with me in linkedin : ismail ameskour 
+
+-------------------------------------
+installation package : 
+		- pip install tk
+		-pip install pillow
+		-pip install Simple-AES-Cipher
+
+
+
+
